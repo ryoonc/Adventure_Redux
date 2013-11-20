@@ -1,0 +1,10 @@
+<ID>4</ID>
+<Name>3rd Floor Hall</Name>
+<Description>This specific block of the hallway's air feels heavy, like someone died here, a void of darkness seems to be encrouching you</Description>
+<North></North>
+<South>3</South>
+<East></East>
+<West>5</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

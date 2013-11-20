@@ -1,0 +1,9 @@
+<ID>1</ID>
+<Name>Mr.Smith</Name>
+<Description> is pacing back and forth here, armed with a large, heavy book</Description>
+<BattleCry>RAWWWRRrrr, I'll make you study till you die!!</BattleCry>
+<AttackCry> smiles disgustingly at you, damaging your eyes for </AttackCry>
+<Attack>2</Attack>
+<Room>3</Room>
+<Health>30</Health>
+<Type>1</Type>

@@ -1,0 +1,8 @@
+<ID>7</ID>
+<Name>RockerSword</Name>
+<Description>It's a shining long sword that is about 100cm long</Description>
+<Ground>A RockerSword glows on the ground nearby with the promise of victory..</Ground>
+<Room>35</Room>
+<Attack>40</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

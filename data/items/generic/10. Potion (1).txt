@@ -1,0 +1,9 @@
+<ID>10</ID>
+<Name>Potion</Name>
+<Description>A healing mixture</Description>
+<Ground>A Potion with a slightly red and transparent mixture inside lies on the ground here</Ground>
+<Room>1</Room>
+<Removable>1</Removable>
+<Attribute></Attribute>
+<HealValue>10</HealValue>
+<Stock>5</Stock>

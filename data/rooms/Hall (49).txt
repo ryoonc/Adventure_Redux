@@ -1,0 +1,10 @@
+<ID>49</ID>
+<Name>Hall 49</Name>
+<Description>A crossroad between two long and dark corridors.</Description>
+<North>53</North>
+<South>54</South>
+<East></East>
+<West>48</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

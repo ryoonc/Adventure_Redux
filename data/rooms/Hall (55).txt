@@ -1,0 +1,10 @@
+<ID>55</ID>
+<Name>Hall 55</Name>
+<Description>A large insciption on the wall reads: "Detention Hall" Underneath it, seemingly written in blood, it says: "only 85375 definitions left to copy"</Description>
+<North>54</North>
+<South></South>
+<East></East>
+<West>56</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

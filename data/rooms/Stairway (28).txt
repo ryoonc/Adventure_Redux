@@ -1,0 +1,10 @@
+<ID>28</ID>
+<Name>In Stairway</Name>
+<Description>Inside the stairway, above and below you are stairs</Description>
+<North></North>
+<South></South>
+<East></East>
+<West></West>
+<Up>27</Up>
+<Down>29</Down>
+<Light>0</Light>

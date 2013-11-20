@@ -1,0 +1,8 @@
+<ID>4</ID>
+<Name>Pencil</Name>
+<Description>A regular Pencil with an odd aura of sturdiness flowing from it</Description>
+<Ground>A classic old-style Pencil lays on the ground here</Ground>
+<Room>1</Room>
+<Attack>10</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

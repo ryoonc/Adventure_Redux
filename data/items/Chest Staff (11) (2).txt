@@ -1,0 +1,8 @@
+<ID>2</ID>
+<Name>Staff</Name>
+<Description>A gnarled staff that looks like it couldnt hurt a fly</Description>
+<Ground>A Staff that looks like an old mans walking stuff lies here</Ground>
+<Room>11</Room>
+<Attack>5</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

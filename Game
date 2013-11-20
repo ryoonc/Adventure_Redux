@@ -1,0 +1,15 @@
+public interface Game
+{
+	
+	//starts the game
+	//prompt for name
+	//way to import world : rooms, player, NPC
+	public Game();
+	
+	
+	//Loop of player playing
+	//ex : while(..)
+	//{player.prompt();
+	void play();
+	
+}

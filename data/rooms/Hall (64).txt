@@ -1,0 +1,10 @@
+<ID>64</ID>
+<Name>Hall 64</Name>
+<Description>The nearly-dirt grass field in front of the building  and the polluted air form an unforgettable sight, as a gate appears further down your path.</Description>
+<North></North>
+<South></South>
+<East>63</East>
+<West>65</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

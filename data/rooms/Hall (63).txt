@@ -1,0 +1,10 @@
+<ID>63</ID>
+<Name>Hall 63</Name>
+<Description>At the bottom of the stairs, there is a door in the direction of the setting sun.</Description>
+<North></North>
+<South></South>
+<East></East>
+<West>64</West>
+<Up>62</Up>
+<Down></Down>
+<Light>0</Light>

@@ -1,0 +1,10 @@
+<ID>50</ID>
+<Name>Hall 50</Name>
+<Description>A series of somber paintings covers the walls, depicting such horrid things as geography or abstract art. The door closes with a click behind you as you enter.</Description>
+<North></North>
+<South></South>
+<East>67</East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

@@ -1,0 +1,10 @@
+<ID>59</ID>
+<Name>Hall 59</Name>
+<Description>A strange sense of confinement and constrictment falls upon you as you enter room 505? Through the doors, a stairway can be seen leading downward</Description>
+<North></North>
+<South></South>
+<East>58</East>
+<West></West>
+<Up></Up>
+<Down>60</Down>
+<Light>0</Light>

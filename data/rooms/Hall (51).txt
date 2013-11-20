@@ -1,0 +1,10 @@
+<ID>51</ID>
+<Name>Hall 51</Name>
+<Description>Terrifying sounds can be heard echoing through the walls of this corridor. The door clangs shut as you enter.</Description>
+<North></North>
+<South></South>
+<East>68</East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

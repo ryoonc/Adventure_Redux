@@ -1,0 +1,10 @@
+<ID>68</ID>
+<Name>Threshold</Name>
+<Description>On both sides there is an aura of evil about.</Description>
+<North></North>
+<South></South>
+<East>52</East>
+<West>51</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

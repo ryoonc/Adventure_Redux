@@ -1,0 +1,8 @@
+<ID>6</ID>
+<Name>Flashlight</Name>
+<Description>A battery-powered Flashlight</Description>
+<Ground>It seems that someone has dropped a Flashlight on the ground here..</Ground>
+<Room>1</Room>
+<Attack>1</Attack>
+<Removable>1</Removable>
+<Attribute>1</Attribute>

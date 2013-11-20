@@ -1,0 +1,39 @@
+*Commands*
+
+1.Direction Commands
+--------------------
+- north (or) n: goes north
+- south (or) s: goes south
+- east (or) e: goes east
+- west (or) w: goes west
+- up (or) u: goes up
+- down (or) d: goes down
+
+2.Simple Keys
+-------------
+- use (item name): uses the specified item*
+	+ Usually for items practically usable (ex: Potions)
+- inventory (or) inv (or) i: shows the list of the items the player has
+- save: saves the game // Not implemented yet
+- load: loads the game // Not implemented yet
+- stats (or) status: shows the stats
+- take all (or) take (item name): takes all or the item specified*
+- examine (item name): examines item specified*
+- look (or) l: looks around the room
+- turn (on (or) off) (item name) : turns the item on and off*
+- attack (Monster Name) with (Item Name): attacks the monster with item*
+- drop (item name): drops the item specified*
+- peek (Container name): Peeks into the container specified*
+- open (Container name): Opens the container or door specified*
+- unlock (Container (or) Door name): Does the same as open*
+- tip: brings up a random tip for 5 health
+- credits: displays the names of all six developers
+
+3.Cheat Code
+------------
+- Hint: what kind of animal lives in the moon
+	(animal) on the moon
+
+*All names are case-sensitive, with no spaces in between
+**There are some special keywords which dont affect gameplay, 
+  but are there for comic relief (ex: mark)

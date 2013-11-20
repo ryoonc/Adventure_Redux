@@ -1,0 +1,10 @@
+<ID>52</ID>
+<Name>Hall 52</Name>
+<Description>This place smells like a torture dungeon. After closer inspection, you realize it looks like one too, pieces of torn flesh lying all over the lab tables. The door shuts softly, making no noise as it closes as you enter.</Description>
+<North></North>
+<South></South>
+<East>69</East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

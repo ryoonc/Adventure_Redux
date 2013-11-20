@@ -1,0 +1,8 @@
+<ID>4</ID>
+<Name>Key</Name>
+<Description>A key to unlock something</Description>
+<Ground>A glowing Key lies near hidden on the ground below your feet</Ground>
+<Room>22</Room>
+<Attack>0</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

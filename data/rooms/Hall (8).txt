@@ -1,0 +1,10 @@
+<ID>8</ID>
+<Name>Dead End</Name>
+<Description>You have stumbled upon a dead end. But there is no bound to this end.</Description>
+<North>8</North>
+<South>8</South>
+<East>8</East>
+<West>8</West>
+<Up></Up>
+<Down>7</Down>
+<Light>0</Light>

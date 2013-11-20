@@ -1,0 +1,10 @@
+<ID>56</ID>
+<Name>Hall 56</Name>
+<Description>The wallpaper of this particular room seems to be made up of blue slips. There is an aura of terror about this room.</Description>
+<North>55</North>
+<South></South>
+<East></East>
+<West>57</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

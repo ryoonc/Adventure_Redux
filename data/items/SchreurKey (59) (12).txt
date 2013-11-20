@@ -1,0 +1,8 @@
+<ID>13</ID>
+<Name>SchreurKey</Name>
+<Description>A key.. '505' is carved into it</Description>
+<Ground>A SchreurKey jingles beneath you</Ground>
+<Room>59</Room>
+<Attack>0</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

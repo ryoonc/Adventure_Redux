@@ -1,0 +1,10 @@
+<ID>58</ID>
+<Name>Hall 58</Name>
+<Description>The floor of the hall is covered with papers, labeled "memoryverses", and heavily marked by red pen.</Description>
+<North></North>
+<South></South>
+<East>57</East>
+<West>59</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

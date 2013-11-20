@@ -1,0 +1,10 @@
+<ID>1</ID>
+<Name>Concrete Room</Name>
+<Description>Its a dark room, ravaged by the unforgiving movement of time. The smell of old resides all around..</Description>
+<North>2</North>
+<South>9</South>
+<East>12</East>
+<West>7</West>
+<Up></Up>
+<Down></Down>
+<Light>1</Light>

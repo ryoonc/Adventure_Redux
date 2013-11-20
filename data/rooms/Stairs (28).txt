@@ -1,0 +1,10 @@
+<ID>28</ID>
+<Name>Stairs</Name>
+<Description>Stairs</Description>
+<North></North>
+<South></South>
+<East></East>
+<West></West>
+<Up>27</Up>
+<Down>29</Down>
+<Light>0</Light>

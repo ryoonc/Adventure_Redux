@@ -1,0 +1,8 @@
+<ID>9</ID>
+<Name>DoorKey</Name>
+<Description>A key to unlock a Door</Description>
+<Ground>A set of rusted door keys shine at your feet</Ground>
+<Room>11</Room>
+<Attack>0</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

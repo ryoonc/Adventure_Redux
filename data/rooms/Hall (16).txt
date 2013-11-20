@@ -1,0 +1,10 @@
+<ID>16</ID>
+<Name>Hall 16</Name>
+<Description>Empty Hallway</Description>
+<North></North>
+<South></South>
+<East>17</East>
+<West>15</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

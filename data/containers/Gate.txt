@@ -1,0 +1,5 @@
+<ID>4</ID>
+<Name>Gate</Name>
+<Room>64</Room>
+<Key>5</Key>
+<Direction>west</Direction>

@@ -1,0 +1,10 @@
+<ID>31</ID>
+<Name>Platform</Name>
+<Description>A platform between stairs</Description>
+<North></North>
+<South></South>
+<East></East>
+<West>32</West>
+<Up>30</Up>
+<Down></Down>
+<Light>0</Light>

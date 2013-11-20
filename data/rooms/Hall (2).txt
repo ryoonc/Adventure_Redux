@@ -1,0 +1,10 @@
+<ID>2</ID>
+<Name>3rd Floor Hall</Name>
+<Description>Empty hallway lush with paintings done by young children, but have been here for so long that the paintings have begun to decay..</Description>
+<North>3</North>
+<South>1</South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

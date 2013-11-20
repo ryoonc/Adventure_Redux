@@ -1,0 +1,10 @@
+<ID>65</ID>
+<Name>Hall 65</Name>
+<Description>An imposing gate rises to bar your way, with the words "YOU SHALL NOT PASS" carved into them.</Description>
+<North></North>
+<South></South>
+<East>64</East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

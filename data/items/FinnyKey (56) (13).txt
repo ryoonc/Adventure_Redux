@@ -1,0 +1,8 @@
+<ID>12</ID>
+<Name>FinnyKey</Name>
+<Description>A key.. Its plain blue</Description>
+<Ground>A FinnyKey shaped like a blue slip is on the ground near you</Ground>
+<Room>56</Room>
+<Attack>0</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

@@ -1,0 +1,10 @@
+<ID>38</ID>
+<Name>Fork</Name>
+<Description> There is a fork ahead.  A sign near the entrance reads "If ye seeketh adventure, east is thy path where doom awaits.  For the weak and faint of heart, travel south and ye shall be spared."</Description>
+<North></North>
+<South>39</South>
+<East>50</East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

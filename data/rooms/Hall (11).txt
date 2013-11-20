@@ -1,0 +1,10 @@
+<ID>11</ID>
+<Name>Treasure Room</Name>
+<Description>You entered a room that is illuminated by orange light</Description>
+<North>10</North>
+<South></South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

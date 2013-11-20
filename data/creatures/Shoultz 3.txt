@@ -1,0 +1,9 @@
+<ID>3</ID>
+<Name>Mr.Shoultz</Name>
+<Description> is wading back and fourth here, with a fork in hand</Description>
+<BattleCry>IM HUNGRY!~ IM GOING TO EAT YOU NOW</BattleCry>
+<AttackCry> jabs his fork at you, making you bleed </AttackCry>
+<Attack>3</Attack>
+<Room>50</Room>
+<Health>60</Health>
+<Type>1</Type>

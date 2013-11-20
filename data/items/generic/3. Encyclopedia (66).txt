@@ -1,0 +1,8 @@
+<ID>3</ID>
+<Name>Encyclopedia</Name>
+<Description>A massive Encyclopedia part of the Britannica series</Description>
+<Ground>A massive Encyclopedia part of the Britannica series hums softly on the ground</Ground>
+<Room>66</Room>
+<Attack>60</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

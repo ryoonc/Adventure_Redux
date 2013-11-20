@@ -1,0 +1,10 @@
+<ID>40</ID>
+<Name>Small Tunnel</Name>
+<Description> The tunnel is dark and seemingly endless.</Description>
+<North>38</North>
+<South></South>
+<East>41</East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

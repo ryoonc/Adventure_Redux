@@ -1,0 +1,10 @@
+<ID>22</ID>
+<Name>Hall 22</Name>
+<Description>There is a key in the room.</Description>
+<North></North>
+<South>19</South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

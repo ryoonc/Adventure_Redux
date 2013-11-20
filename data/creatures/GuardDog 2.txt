@@ -1,0 +1,9 @@
+<ID>2</ID>
+<Name>GuardDog</Name>
+<Description> growls at you, its eyes gleaming red with the sight of a defenseless student</Description>
+<BattleCry>RAWWWRRR!!</BattleCry>
+<AttackCry> gnaws on your body parts for </AttackCry>
+<Attack>2</Attack>
+<Room>5</Room>
+<Health>30</Health>
+<Type>2</Type>

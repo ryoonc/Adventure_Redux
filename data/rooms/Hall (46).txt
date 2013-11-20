@@ -1,0 +1,10 @@
+<ID>46</ID>
+<Name>Hall 46</Name>
+<Description>The hallway is empty, but seems to extend into the east-west direction.</Description>
+<North></North>
+<South></South>
+<East>47</East>
+<West>45</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

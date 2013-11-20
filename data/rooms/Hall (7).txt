@@ -1,0 +1,10 @@
+<ID>7</ID>
+<Name>3rd Floor Hall</Name>
+<Description>A narrow hall</Description>
+<North></North>
+<South></South>
+<East>1</East>
+<West>8</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

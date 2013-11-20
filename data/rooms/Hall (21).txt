@@ -1,0 +1,10 @@
+<ID>21</ID>
+<Name>Hall 21</Name>
+<Description>There is a Troll in the room.</Description>
+<North></North>
+<South>20</South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

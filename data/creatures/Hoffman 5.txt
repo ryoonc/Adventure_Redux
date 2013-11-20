@@ -1,0 +1,9 @@
+<ID>5</ID>
+<Name>Mr.Hoffman</Name>
+<Description> is curling weights</Description>
+<BattleCry>Hey, you have a problem!?</BattleCry>
+<AttackCry> hurls huge weights at you, hurting you for </AttackCry>
+<Attack>5</Attack>
+<Room>52</Room>
+<Health>80</Health>
+<Type>1</Type>

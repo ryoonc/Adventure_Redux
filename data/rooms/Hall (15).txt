@@ -1,0 +1,10 @@
+<ID>15</ID>
+<Name>Hall of Enlightenment</Name>
+<Description>On a wall you see a torch that lights up this other wise bland room</Description>
+<North></North>
+<South></South>
+<East>16</East>
+<West>14</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

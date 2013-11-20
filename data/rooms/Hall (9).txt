@@ -1,0 +1,10 @@
+<ID>9</ID>
+<Name>Hall 9</Name>
+<Description>A vast stretch of nothingness on each wall seem to close in on you</Description>
+<North>1</North>
+<South>10</South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

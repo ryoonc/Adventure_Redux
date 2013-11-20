@@ -1,0 +1,8 @@
+<ID>8</ID>
+<Name>Zanbaktu</Name>
+<Description>A shinigami sword meant to slice spirits</Description>
+<Ground>A shinigami sword meant to slice spirits lies on the ground.</Ground>
+<Room>40</Room>
+<Attack>50</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

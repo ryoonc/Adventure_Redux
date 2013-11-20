@@ -1,0 +1,10 @@
+<ID>66</ID>
+<Name>Secret Room</Name>
+<Description>You seem to have stumbled upon a brightly-lit secret room</Description>
+<North>37</North>
+<South></South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>1</Light>

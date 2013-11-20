@@ -1,0 +1,10 @@
+<ID>61</ID>
+<Name>Hall 61</Name>
+<Description>The stairs seeminlgy go on forever. This is pointless there are many useless rooms.</Description>
+<North></North>
+<South></South>
+<East></East>
+<West></West>
+<Up>60</Up>
+<Down>62</Down>
+<Light>0</Light>

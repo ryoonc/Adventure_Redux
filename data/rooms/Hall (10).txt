@@ -1,0 +1,10 @@
+<ID>10</ID>
+<Name>Hall 10</Name>
+<Description>The nothingness seems smaller now, to the south is an awkward glow</Description>
+<North>9</North>
+<South>11</South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

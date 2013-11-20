@@ -1,0 +1,9 @@
+<ID>4</ID>
+<Name>Mr.Wick</Name>
+<Description> is doing soccer tricks with his soccer ball</Description>
+<BattleCry>OH MY GOODNESS, WHY ARE YOU OUT OF CLASS!?</BattleCry>
+<AttackCry> kicks his soccer ball at your extremities, and you double over and bleed </AttackCry>
+<Attack>4</Attack>
+<Room>51</Room>
+<Health>70</Health>
+<Type>1</Type>

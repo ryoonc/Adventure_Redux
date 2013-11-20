@@ -1,0 +1,5 @@
+<ID>3</ID>
+<Name>505Door</Name>
+<Room>58</Room>
+<Key>2</Key>
+<Direction>west</Direction>

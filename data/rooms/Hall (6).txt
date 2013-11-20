@@ -1,0 +1,10 @@
+<ID>6</ID>
+<Name>Dead End</Name>
+<Description>You have stumbled upon a dead end</Description>
+<North></North>
+<South></South>
+<East>5</East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

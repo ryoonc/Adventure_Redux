@@ -1,0 +1,10 @@
+<ID>53</ID>
+<Name>Hall 53</Name>
+<Description>The air is fresh, but it is still dark and damp in this low passageway.</Description>
+<North>52</North>
+<South>49</South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

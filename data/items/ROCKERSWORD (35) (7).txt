@@ -1,0 +1,8 @@
+<ID>7</ID>
+<Name>ROCKERSWORD</Name>
+<Description>It's a shining long sword that is about 60cm long</Description>
+<Ground>A FRICKIN HUGE SWORD LIES ON THE GROUND.. ITS GLOWINNG LIKE MAD</Ground>
+<Room>35</Room>
+<Attack>40</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

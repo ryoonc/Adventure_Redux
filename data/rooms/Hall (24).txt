@@ -1,0 +1,10 @@
+<ID>24</ID>
+<Name>Hall 24</Name>
+<Description>There is a bottle of water in the room. It stinks.</Description>
+<North></North>
+<South></South>
+<East>25</East>
+<West>23</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

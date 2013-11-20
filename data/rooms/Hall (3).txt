@@ -1,0 +1,10 @@
+<ID>3</ID>
+<Name>3rd Floor Hall</Name>
+<Description>Continuing on with the exhibit, the once-used mops lie lifelessly in the old buckets where water used to reside..</Description>
+<North>4</North>
+<South>2</South>
+<East></East>
+<West></West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

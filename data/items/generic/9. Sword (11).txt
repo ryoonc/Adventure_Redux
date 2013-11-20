@@ -1,0 +1,8 @@
+<ID>9</ID>
+<Name>Sword</Name>
+<Description>It's a shining long sword that is about 60cm long</Description>
+<Ground>A long shining Sword about 60cm long lies on the ground nearby</Ground>
+<Room>11</Room>
+<Attack>20</Attack>
+<Removable>1</Removable>
+<Attribute></Attribute>

@@ -1,0 +1,10 @@
+<ID>60</ID>
+<Name>Hall 60</Name>
+<Description>The stairs are surrounded by huge frightening shapes, which you realize later are various kinds of breakfast food.</Description>
+<North></North>
+<South></South>
+<East></East>
+<West></West>
+<Up>59</Up>
+<Down>61</Down>
+<Light>0</Light>

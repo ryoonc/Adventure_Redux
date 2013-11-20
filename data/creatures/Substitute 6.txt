@@ -1,0 +1,9 @@
+<ID>6</ID>
+<Name>Substitute</Name>
+<Description> teacher, weak but armed with a ruler, marches back and fourth here</Description>
+<BattleCry>Hey, what are you doing here!?</BattleCry>
+<AttackCry> slaps you silly with his ruler for </AttackCry>
+<Attack>1</Attack>
+<Room>17</Room>
+<Health>30</Health>
+<Type>1</Type>

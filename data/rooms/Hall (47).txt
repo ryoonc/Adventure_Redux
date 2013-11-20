@@ -1,0 +1,10 @@
+<ID>47</ID>
+<Name>Hall 47</Name>
+<Description>Yet another empty hallway. You feel a cold chill sink in to your bones.</Description>
+<North></North>
+<South></South>
+<East>48</East>
+<West>46</West>
+<Up></Up>
+<Down></Down>
+<Light>0</Light>

@@ -1,0 +1,10 @@
+<ID>35</ID>
+<Name>Auditorium</Name>
+<Description>A huge auditorium that you can't see any walls around it.. Words on the wall say "Heart"</Description>
+<North>35</North>
+<South>35</South>
+<East>36</East>
+<West>35</West>
+<Up>34</Up>
+<Down>35</Down>
+<Light>0</Light>
