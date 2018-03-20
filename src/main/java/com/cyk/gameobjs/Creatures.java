@@ -1,3 +1,5 @@
+package com.cyk.gameobjs;
+
 public interface Creatures
 {
 	//gets the currect location of the creature

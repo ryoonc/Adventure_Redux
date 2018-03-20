@@ -1,3 +1,5 @@
+package com.cyk.gameobjs;
+
 public class FlashLight extends MagicItems// implements Comparable
 {
 	private boolean light;

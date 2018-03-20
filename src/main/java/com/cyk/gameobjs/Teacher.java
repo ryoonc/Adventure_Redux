@@ -1,5 +1,10 @@
+package com.cyk.gameobjs;
+
 import java.util.Random;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.*;
 
 class Teacher extends Player implements Creatures
 {
@@ -11,7 +16,7 @@ class Teacher extends Player implements Creatures
 	private int damage;
 	Random rand = new Random();
 	private double probOfAttack = 3.0/3.0;
-	private double probOfMove = 4.0/4.0;
+	private double probOfMove = 0.0/4.0;
 	//private Room location;
 	private int a=0;
 	private Player player;
@@ -20,6 +25,7 @@ class Teacher extends Player implements Creatures
 	private String battleCry;
 	private String attackCry;
 	private boolean cried;
+	private Map inventory;
 	///////////////////////////////////
 	
 	public Teacher(String name, String desc, String battleCry, String attackCry, Room loc, Player p, int strength, int hp) 	// Constructor
@@ -35,6 +41,19 @@ class Teacher extends Player implements Creatures
 		this.battleCry = battleCry;
 		this.attackCry = attackCry;
 		cried = false; // Whether he made his battlecry or not
+		inventory = (HashMap)location.takeAllItems();
+	}
+	
+	public boolean addItems(Object it)
+	{
+		if (it instanceof Map)
+			((Map)it).putAll(inventory);
+
+		else if (it instanceof Items)
+			inventory.put(((Items)it).getName(), (Items)it);
+		
+		return false;
+		//System.out.println("Added Object");
 	}
 	
 	public void move(Room loc)														// Whats called every 'turn'
@@ -42,11 +61,25 @@ class Teacher extends Player implements Creatures
 		if (health <= 0)
 		{
 			die();
+			//System.out.println(name + " drops a few things, doubles over, and dies");
 		}
-		if (loc == location)
+		if (location == loc && !isDead())
 		{
-			attack();
+			ArrayList directions = location.emptyRooms();
+			if (rand.nextDouble() < probOfMove)
+			{
+				String dir = (String)directions.get(rand.nextInt(directions.size()));
+				location.removeCreature(this);
+				location = location.getNextRoom(dir);
+				location.addCreature(this);
+			}
+			if (super.getLocation().equals(getLocation()) && rand.nextDouble() < probOfAttack)
+			{
+				attack();
+				a++;
+			}
 		}
+		
 	}
 	
 	public boolean isDead()
@@ -58,7 +91,21 @@ class Teacher extends Player implements Creatures
 	
 	public void die()
 	{
+		//
+			
+		Iterator iter = inventory.keySet().iterator();
+		while(iter.hasNext())
+		{
+			//Map roomInventory = location.getAllItems();
+			Items item = (Items)inventory.get(iter.next());
+			location.addItem(item);
+		}
+		
 		location.removeCreature(this);
+	}
+	public boolean hasItems()
+	{
+		return !inventory.isEmpty();
 	}
 	
 	public String getName()
@@ -80,7 +127,10 @@ class Teacher extends Player implements Creatures
 		temp += "HP:	" + this.getHealth() + "\n";
 		return temp;
 	}
-
+//	public String getStats()
+	{
+		
+	}
 	/*public void getItems()
 	{
 		System.out.print("This troll has: ");
@@ -99,28 +149,23 @@ class Teacher extends Player implements Creatures
 	public int attack()
 	{
 		System.out.println();
-		if (damage > 0)
+		
+		damage = str*(rand.nextInt(8) + 2); 			//random amount of damage (10-60)
+		player.changeHealth(-damage); 					//subtracts health from player
+		if (!cried)
 		{
-			damage = str*(rand.nextInt(8) + 2); 			//random amount of damage (10-60)
-			player.changeHealth(-damage); 					//subtracts health from player
-			if (!cried)
-			{
-				System.out.println(name + ": \"" + battleCry + "\"\n");
-				cried = true;
-			}
-			
-			System.out.println(name + attackCry + damage + " damage");
-			if (player.getHealth() <=0)						// Nice addition, Hao wei
-				System.out.println(name + " has killed you!");
-			else											// Reiterates itself every turn
-			{
-				System.out.println("Your remaining health is: " + player.getHealth());
-				System.out.println(name + " 's remaining health is " + getHealth());
-			}
-			return damage;
+			System.out.println(name + ": \"" + battleCry + "\"\n");
+			cried = true;
 		}
-		else
-			return 0;
+		
+		System.out.println(getName() + attackCry + damage + " damage");
+		if (player.getHealth() <=0)						// Nice addition, Hao wei
+			System.out.println(name + " has killed you!");
+		else											// Reiterates itself every turn
+		{
+			System.out.println(name + " 's remaining health is " + getHealth());
+		}
+		return damage;
 	}
 	
 	public Room getLocation()
@@ -130,6 +175,9 @@ class Teacher extends Player implements Creatures
 	
 	public void changeHealth(int hp)
 	{
-		health += hp;
+		if (health + hp >= 100)
+			health = 100;
+		else
+			health += hp;
 	}
 }

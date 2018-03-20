@@ -1,3 +1,5 @@
+package com.cyk.gameobjs;
+
 public void use(String command)
 {
 	

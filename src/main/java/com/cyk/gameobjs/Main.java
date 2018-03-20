@@ -1,3 +1,5 @@
+package com.cyk.gameobjs;
+
 import java.io.*;
 
 public class Main

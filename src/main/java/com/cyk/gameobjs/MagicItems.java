@@ -1,3 +1,5 @@
+package com.cyk.gameobjs;
+
 import java.util.Random;
 
 public class MagicItems extends Items// implements Comparable

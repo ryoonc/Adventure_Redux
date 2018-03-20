@@ -1,3 +1,5 @@
+package com.cyk.gameobjs;
+
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.Map;

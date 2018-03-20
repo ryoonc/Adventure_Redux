@@ -1,4 +1,4 @@
-/*
+package com.cyk.gameobjs;/*
  * GUI.java
  *
  * Created on May 31, 2006, 2:37 AM
